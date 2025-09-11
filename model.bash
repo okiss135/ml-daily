@@ -1,0 +1,1 @@
+cp "/home/oskar-kiss/repos/ml-daily/model_template.ipynb" "./model.ipynb"
